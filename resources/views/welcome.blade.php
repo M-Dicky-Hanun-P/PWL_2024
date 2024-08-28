@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>KTP Moch. Dicky Hanun P</title>
+    <title>KTP Mochammad Dicky Hanun P</title>
 </head>
 <body>
     <h1 align="center">PROVINSI JAWA TIMUR</h1>
