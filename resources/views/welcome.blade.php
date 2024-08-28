@@ -6,6 +6,6 @@
     </head>
     <body>
         <h2>Pemrograman Web Lanjut</h2>
-        <h3>Semangat Belajar Laravel 10</h3>
+        <h3>.Semangat Belajar Laravel 10</h3>
     </body>
 </html>
